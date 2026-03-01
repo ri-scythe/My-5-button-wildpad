@@ -3,16 +3,20 @@ A custom 5 button macropad built for the Hack Club Hackpad project. It features 
 
 # CAD
 Everything fits together using 4 M3 bolts and 4 hetset inserts. The case is made of 2 separate printed pieces.
+
 <img width="754" height="699" alt="Снимок экрана 2026-03-01 235723" src="https://github.com/user-attachments/assets/84c59a9c-7084-4015-bf09-c86307bdaf64" />
 <img width="996" height="718" alt="Снимок экрана 2026-03-01 235750" src="https://github.com/user-attachments/assets/37aa3caa-eed0-4725-a848-faa4b8ceb1cf" />
 
 
 # PCB
 Created in KiCad.
+
 PCB 
+
 <img width="892" height="799" alt="Снимок экрана 2026-03-01 235914" src="https://github.com/user-attachments/assets/cf9be02b-2748-41ab-8d71-23798e72bf62" />
 
 Schematic
+
 <img width="1387" height="857" alt="Снимок экрана 2026-03-01 235835" src="https://github.com/user-attachments/assets/82d16930-6bf2-408d-a53e-fabdfbe122dd" />
 
 
