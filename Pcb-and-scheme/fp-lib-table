@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xiao")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "drawings")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/kicaddrawings.preety")(options "")(descr ""))
+)
