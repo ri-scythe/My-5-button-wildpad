@@ -35,6 +35,7 @@ This macropad uses [QMK](https://qmk.fm/) firmware.
 - 5x SK6812 MINI LEDs
 - 6x Through-hole 1N4148 Diodes
 - 1x Case(2 separate parts)
+- 1x Soldering Iron
 
 # Fun fact
 
